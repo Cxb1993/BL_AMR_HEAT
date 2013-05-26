@@ -13,7 +13,8 @@ It is assumed that one has a bash-like environment to run Make files.
 How to run
 ----------
 1. execute the program passing it the argument `inputs_2d_amr.properties`;
-2. in the shell type 
-    ls plt*/Headers | tee heat2d.visit
+2. in the shell type
+
+        ls plt*/Headers | tee heat2d.visit
 3. use `VisIt` to visualize the results
 
