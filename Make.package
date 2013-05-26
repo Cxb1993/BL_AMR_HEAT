@@ -1,0 +1,17 @@
+
+
+CEXE_sources += main.cpp
+#CEXE_sources += writePlotFile.cpp
+
+CEXE_sources += zzz.cpp
+
+
+#CEXE_headers += writePlotFile.H
+CEXE_headers += zzz.hpp
+CEXE_headers += FortranHelper.hpp
+
+
+FEXE_headers += fortranFunctions.h
+
+f90EXE_sources += fortranFunctions.f90
+

@@ -11,3 +11,18 @@
 *.lai
 *.la
 *.a
+
+# intermediate files
+d/
+f/
+o/
+
+# executable file
+*.ex
+*.exe
+
+# restart/plot files
+plt*/
+chk*/
+*.visit
+
