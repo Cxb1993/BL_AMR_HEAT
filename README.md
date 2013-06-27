@@ -1,6 +1,12 @@
 BL_AMR_HEAT
 ===========
 
+What's this
+-----------
+This is an example of Adaptive Mesh Refinement (AMR) computation using BoxLib (LLNL).
+This application solves a heat diffusion problem by making use of some features of BoxLib.
+
+
 How to build
 ------------
 
